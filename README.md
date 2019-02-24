@@ -6,7 +6,7 @@
   
 ## compilation:
   * For Linux: `g++ input_file.cpp -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer -o output_file`
-  * For Windows: open `sdl2_test/sdl2_test.cbp` and compile a `.cpp`. If it works, dont touch anything except the editor, compile and execute. If its not working, download linux :D
+  * For Windows: open `sdl2_test/sdl2_test.cbp` and compile a `.cpp`. If it works, dont touch anything except the editor, compile and execute. If its not working, download linux :smile:
   
 ### SDL2 API:
   There are 543 functions we can use in SDL2. We are covering only a few basic ones here. You can find all the details [here](https://wiki.libsdl.org/APIByCategory)
