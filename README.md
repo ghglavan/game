@@ -148,4 +148,4 @@
 ### You can find many good totorials about SDL [here](http://lazyfoo.net/tutorials/SDL/index.php)
 
 ## Your tasks:
-  - [ ] Create a class _Window_ with methods for `init`, `cleanup`, `load_texture`, `is_running`, `draw`
+  - [ ] Create a class _Window_ with methods for `init`, `cleanup`, `load_texture`, `is_running`, `draw`, and rewrite `tester.cpp` to use your class. You can find your needed api in `window.h`
