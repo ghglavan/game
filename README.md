@@ -106,6 +106,12 @@
   returns 0 on success or a negative error code on failure; call SDL_GetError() for more information. 
   
   ```C++
+  SDL_Texture* SDL_CreateTextureFromSurface(SDL_Renderer* renderer,
+                                          SDL_Surface*  surface)
+  ```
+ returns the created texture or NULL on failure; call SDL_GetError() for more information. 
+  
+  ```C++
     int SDL_RenderCopy(SDL_Renderer*   renderer,
                    SDL_Texture*    texture,
                    const SDL_Rect* srcrect,
