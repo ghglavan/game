@@ -9,7 +9,7 @@
   * For Windows: TODO
   
 ### SDL2 API:
-  There are 543 functions we can use in SDL2. We are covering just a few basic ones here. You can find all the details you can go [here](https://wiki.libsdl.org/APIByCategory)
+  There are 543 functions we can use in SDL2. We are covering only a few basic ones here. You can find all the details you can go [here](https://wiki.libsdl.org/APIByCategory)
   
   ```C++
     int SDL_Init(Uint32 flags) // init SDL2 subsystems
