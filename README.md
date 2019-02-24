@@ -2,7 +2,7 @@
 
 ## installation:
   * For Linux: `sudo apt install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev`
-  * For Windows: unzip `sdl2_test.7z` and copy every `.h` and `.cpp` file from `game` in `sdl2_test/`
+  * For Windows: unzip `sdl2_test.7z` and copy everything from `game` in `sdl2_test/`
   
 ## compilation:
   * For Linux: `g++ input_file.cpp -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer -o output_file`
