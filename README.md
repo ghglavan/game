@@ -151,7 +151,7 @@
   The next step is to `draw` everything to the screen.
   
   
-### You can find many good totorials about SDL [here](http://lazyfoo.net/tutorials/SDL/index.php)
+### You can find many good tutorials about SDL [here](http://lazyfoo.net/tutorials/SDL/index.php)
 ### Check `window.h` for documented api, and `tester.cpp` for usage example
 
 ## Your tasks:
